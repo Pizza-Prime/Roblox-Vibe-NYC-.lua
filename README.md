@@ -290,7 +290,7 @@ TextLabel_2.BackgroundTransparency = 1.000
 TextLabel_2.Position = UDim2.new(0, 0, 1, 0)
 TextLabel_2.Size = UDim2.new(0, 113, 0, 20)
 TextLabel_2.Font = Enum.Font.SciFi
-TextLabel_2.Text = "Fucker"
+TextLabel_2.Text = ""
 TextLabel_2.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel_2.TextSize = 21.000
 
